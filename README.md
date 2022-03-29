@@ -1,2 +1,1 @@
-# nlp_corporate_reputation
-Corporate Reputation: Twitter Sentiment Analysis
+# Analyzing Corporate Reputation through Twitter Sentiment Analysis for Google and Microsoft
